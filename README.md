@@ -1,7 +1,11 @@
 ### Hi there, I am PintiDevAziz 👋
 
-I am a Software Engineer, I have a passion for building applications and solving problems. I am a self-taught developer, I have a lot of experience in building web applications and I am always looking for new challenges to learn.
+I am [Aziz Imranzade](https://pintidevaziz.vercel.app/) a web developer and a software engineer. I am in love with web development and playing video games. For now I am a student at Baku. My favorite hobbies are playing video games, Balisong and Pen spinning and playing football. I am a huge fan of video games
 
+If you want to support me 😄 
+<a href="https://www.buymeacoffee.com/pintidevaziz">
+  <img  align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/><a/>
+  
 My Social Media Accounts
 ----
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pintidevaziz/)
