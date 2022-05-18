@@ -52,3 +52,7 @@ height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e42
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## Spotify
+
+[![Spotify](https://novatorem-iameziz.vercel.app/api/spotify)](https://open.spotify.com/user/PintiDevAziz)
+
