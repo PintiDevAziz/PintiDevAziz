@@ -47,3 +47,7 @@ height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e42
 height="40px"     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></img>
 <img 
 height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></img>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
