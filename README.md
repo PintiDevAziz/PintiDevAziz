@@ -1,4 +1,4 @@
-### Hi there, I am PintiDevAziz  Test👋
+### Hi there, I am PintiDevAziz Please👋
 
 I am [Aziz Imranzade](https://pintidevaziz.vercel.app/) a web developer and a software engineer. I am in love with web development and playing video games. For now I am a student at Baku. My favorite hobbies are playing video games, Balisong and Pen spinning and playing football. I am a huge fan of video games
 
