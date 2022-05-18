@@ -14,8 +14,8 @@ My Social Media Accounts
 
 Github Stats 
 ---
-![PintiDevAziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=PintiDevAziz&show_icons=true&theme=radical) <br/><br/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PintiDevAziz&layout=compact" />
+![PintiDevAziz's GitHub stats](https://github-readme-stats-iameziz.vercel.app/api?username=PintiDevAziz&show_icons=true&theme=radical) <br/><br/>
+<img align="top" src="https://github-readme-stats-iameziz.vercel.app/api/top-langs/?username=PintiDevAziz&layout=compact" />
 
 Language and Tools 
 ---
