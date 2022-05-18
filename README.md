@@ -9,7 +9,7 @@ If you want to support me 😄
 My Social Media Accounts
 ----
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pintidevaziz/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpERt5A7SNd7s5XNAj2mGmw)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpERt5A7SNd7s5XNAj2mGmw?style=for-the-badge)](https://www.youtube.com/channel/UCpERt5A7SNd7s5XNAj2mGmw)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077839123950)
 
 Github Stats 
