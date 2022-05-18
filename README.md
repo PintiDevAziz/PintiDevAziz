@@ -48,6 +48,7 @@ height="40px"     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5
 <img 
 height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></img>
 
+# Recent Activity :zap:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
