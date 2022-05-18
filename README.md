@@ -50,6 +50,5 @@ height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e42
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
