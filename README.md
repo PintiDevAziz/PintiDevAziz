@@ -47,5 +47,9 @@ height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e42
 height="40px"     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></img>
 <img 
 height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></img>
+<img 
+height="40px"     src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png"></img>
+<img 
+height="40px"     src="https://redux.js.org/img/redux.svg"></img>
 
 
